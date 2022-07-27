@@ -7,6 +7,7 @@ I’m currently learning
   - 🤖 Machine Learning
   - ⚡ Database
   - 📦 ETL
+  - 💻 Programming
 
 💬 Ask me about 
   - Data
