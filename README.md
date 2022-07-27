@@ -4,7 +4,7 @@
 
   - I’m currently learning 📊 Analytics / 🤖 Machine Learning / 🗄 Database / ⚙ ETL / 💻 Programming
 
-  - Ask me about: Data / Brazil / Portugal / B3 / Restaurante Olímpia / Santos
+  - Ask me about: Data - Brazil - Portugal - B3 - Restaurante Olímpia - Santos
 
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gccarvalhal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
