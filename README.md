@@ -5,8 +5,8 @@ I’m currently working on **Stock Exchange of Brazil - B3**
 I’m currently learning
   - 📊 Analytics
   - 🤖 Machine Learning
-  - ⚡ Database
-  - 📦 ETL
+  - 🗄 Database
+  - ⚙ ETL
   - 💻 Programming
 
 💬 Ask me about 
