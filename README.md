@@ -15,5 +15,4 @@ I’m currently learning
   - Restaurante Olímpia
   - Santos
 
-- ⚡ Fun fact: ...
--->
+✉ https://www.linkedin.com/in/gabrielccarvalhal/
