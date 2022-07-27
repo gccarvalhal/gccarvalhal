@@ -16,4 +16,4 @@ I’m currently learning
   - Restaurante Olímpia
   - Santos
 
-✉ https://www.linkedin.com/in/gabrielccarvalhal/
+✉ Finde me: https://www.linkedin.com/in/gabrielccarvalhal/
