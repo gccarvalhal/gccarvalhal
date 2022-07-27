@@ -2,7 +2,7 @@
 
 I’m currently working on **Stock Exchange of Brazil - B3**
 
-I’m currently learning:
+I’m currently learning
   -📊 Analytics
   -🤖 Machine Learning
   -⚡ Database
