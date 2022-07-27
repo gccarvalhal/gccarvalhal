@@ -1,6 +1,6 @@
 ## Hi ! I am Gabriel Carvalhal 👋
 
-I’m currently working on **Stock Exchange of Brazil - B3**
+I’m currently working on **Stock Exchange of Brazil - B3** 📈
 
 I’m currently learning
   - 📊 Analytics
