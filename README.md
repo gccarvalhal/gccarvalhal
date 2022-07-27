@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi ! I am Gabriel Carvalhal 👋
 
-<!--
-**gccarvalhal/gccarvalhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on **Stock Exchange of Brazil - B3**
 
-Here are some ideas to get you started:
+I’m currently learning:
+  -📊 Analytics
+  -🤖 Machine Learning
+  -⚡ Database
+  -📦 ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+💬 Ask me about 
+  - Data
+  - Brazil
+  - Portugal
+  - Restaurante Olímpia
+  - Santos
+
 - ⚡ Fun fact: ...
 -->
