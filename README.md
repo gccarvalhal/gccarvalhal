@@ -4,7 +4,7 @@
   - **Learning:** <br>
 📊 Analytics   &nbsp;&bull;   🤖 Machine Learning  &nbsp;&bull;   🗄 Database   &nbsp;&bull;   ⚙ ETL   &nbsp;&bull;   💻 Programming
   -  **Ask me about:** <br>
-DATA &nbsp;&bull;  Brazil &nbsp;&bull;  Portugal &nbsp;&bull;  B3 &nbsp;&bull;  Restaurante Olímpia &nbsp;&bull;  Santos
+DATA &nbsp;&bull;  B3 &nbsp;&bull; Brazil &nbsp;&bull;  Portugal &nbsp;&bull; Restaurante Olímpia &nbsp;&bull;  Santos
   
   ##
  
