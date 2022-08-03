@@ -1,6 +1,10 @@
 ## Hi ! I am Gabriel Carvalhal 👋
 
-  - **Working:** Stock Exchange of Brazil - B3
+  👔 **Working:** Brazilian Stock Exchange - B3
+  
+  🎓 **Graduation:** Industrial Engineering - Mauá Institute of Technology 
+  
+  💻 **Master:** Data Science and Engineering - Porto University
   - **Learning:** <br>
 📊 Analytics   &nbsp;&bull;   🤖 Machine Learning  &nbsp;&bull;   🗄 Database   &nbsp;&bull;   ⚙ ETL   &nbsp;&bull;   💻 Programming
   -  **Ask me about:** <br>
