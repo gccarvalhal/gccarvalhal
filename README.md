@@ -1,6 +1,6 @@
 ## Hi ! I am Gabriel Carvalhal 👋
 
-  👔 **Working:** Brazilian Stock Exchange - B3
+  👔 **Working:** B-Parts
   
   🎓 **Graduation:** Industrial Engineering - Mauá Institute of Technology 
   
