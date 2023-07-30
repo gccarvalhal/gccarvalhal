@@ -21,11 +21,5 @@ DATA &nbsp;&bull;  B3 &nbsp;&bull; Brazil &nbsp;&bull;  Portugal &nbsp;&bull; Re
   <img align="center" alt="Gajo-mysql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Gajo-R" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Gajo-Tableu" height="30" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-        
-  ##
- 
-<div> 
-  <a href = "mailto:gabrielccarvalhal@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielccarvalhal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
   </div>
