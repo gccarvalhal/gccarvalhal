@@ -7,8 +7,6 @@
   💻 **Master:** Data Science and Engineering - Porto University
   - **Learning:** <br>
 📊 Analytics   &nbsp;&bull;   🤖 Machine Learning  &nbsp;&bull;   🗄 Database   &nbsp;&bull;   ⚙ ETL   &nbsp;&bull;   💻 Programming
-  -  **Ask me about:** <br>
-DATA &nbsp;&bull;  B3 &nbsp;&bull; Brazil &nbsp;&bull;  Portugal &nbsp;&bull; Restaurante Olímpia &nbsp;&bull;  Santos &nbsp;&bull;  B-Parts
   
   ##
  
@@ -19,4 +17,5 @@ DATA &nbsp;&bull;  B3 &nbsp;&bull; Brazil &nbsp;&bull;  Portugal &nbsp;&bull; Re
   <img align="center" alt="Gajo-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gajo-post" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gajo-Tableu" height="30" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+  <img align="center" alt="Gajo-Tableu" height="30" width="150" src="[https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw3_Ako5Y6CYARWJnUM935p8&ust=1754760364172000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCDvPPd-44DFQAAAAAdAAAAABAL)" />
   </div>
