@@ -19,5 +19,4 @@ DATA &nbsp;&bull;  B3 &nbsp;&bull; Brazil &nbsp;&bull;  Portugal &nbsp;&bull; Re
   <img align="center" alt="Gajo-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gajo-post" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Gajo-Tableu" height="30" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-  <img align="center" alt="Gajo-Git" height="30" width="150" src="[https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)" />
   </div>
