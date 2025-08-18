@@ -1,8 +1,9 @@
 ## Hi ! I am Gabriel Carvalhal 👋
-  
+  </div>
   🎓 **Bachelor:** Industrial Engineering - Mauá Institute of Technology 
-  
+  </div>
   💻 **Master:** Data Science and Engineering - Porto University
+  </div>
   
   **Learning:** <br>
   Analytics; Machine Learning; Database; ETL; Programming
