@@ -14,5 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gajo-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gajo-post" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Gajo-mysql" height="30" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMySQL&psig=AOvVaw1qLg8ZkJNaAZpZrtcaEZOL&ust=1755624403151000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDbqdrwlI8DFQAAAAAdAAAAABAL" />
   <img align="center" alt="Gajo-Tableu" height="30" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
   </div>
