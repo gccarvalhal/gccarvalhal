@@ -7,9 +7,7 @@
   **Learning:** <br>
   Analytics; Machine Learning; Database; ETL; Programming; Business Intelligence
   ##
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gccarvalhal&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <div style="display: inline_block"><br>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gajo-Python" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
