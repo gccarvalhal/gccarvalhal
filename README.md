@@ -4,12 +4,7 @@
   💻 **Master:** Data Science and Engineering - Porto University
   
   **Learning:** <br>
-  📊 Analytics   &nbsp;&bull;     
-  🤖 Machine Learning  &nbsp;&bull;   
-  🗄 Database   &nbsp;&bull;   
-  ⚙ ETL   &nbsp;&bull;     
-  💻 Programming
-  
+  Analytics; Machine Learning; Database; ETL; Programming
   ##
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gccarvalhal&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
