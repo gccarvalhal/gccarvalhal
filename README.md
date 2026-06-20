@@ -1,20 +1,33 @@
-## Hi ! I am Gabriel Carvalhal 👋
+# Hi! I'm Gabriel Carvalhal 👋
 
-  🎓🇧🇷 **Bachelor:** Industrial Engineering - Mauá Institute of Technology <br>
-  🎓🇫🇷 **Erasmus:** Big Data & Analytics - ESME <br>
-  🎓🇵🇹 **Master:** Data Science and Engineering - Porto University Faculty of Engineering
-  
-  **Learning:** <br>
-  Analytics; Machine Learning; Database; ETL; Programming; Business Intelligence
-  ##
+**Head of Data | Data Science & Engineering**
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gajo-Python" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Gajo-post" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Gajo-mysql" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" alt="Gajo-sql_server" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img align="center" alt="Gajo-Tableu" height="40" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-  <img align="center" alt="Gajo-Git" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Gajo-bash" height="55" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  </div>          
+---
+
+### 🎓 Academic Background
+* **Master's in Data Science and Engineering** | Faculty of Engineering, University of Porto 🇵🇹
+* **Big Data & Analytics (Erasmus)** | ESME 🇫🇷
+* **Bachelor's in Industrial Engineering** | Mauá Institute of Technology 🇧🇷
+
+### 🚀 Core Expertise
+* **Data Strategy:** Data Warehousing, ETL/ELT Pipelines, Business Intelligence
+* **Analytics:** Advanced Analytics, Machine Learning, Predictive Modeling
+* **Technical Stack:** Python, SQL, Cloud Data Platforms
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
