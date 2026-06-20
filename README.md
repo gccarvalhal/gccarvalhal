@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel Carvalhal 👋
 
-**Head of Data | Data Science & Engineering**
+**Business  & Data Science & Engineering**
 
 ---
 
