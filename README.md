@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel Carvalhal 👋
 
-**Business  & Data Science & Engineering**
+**Business  & Data & Engineering**
 
 ---
 
